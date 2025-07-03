@@ -18,6 +18,7 @@ int main(void)
             puts("This is the child process");
         else
             puts("This is the parent process");
+
     }
     return 0;
 }
